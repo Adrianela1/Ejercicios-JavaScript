@@ -2,26 +2,54 @@
 var numeroVar = 42;
 let numeroLet = 3.14;
 const numeroConst = -7;
+var edadVar = 25;
+let alturaLet = 1.75;
+const pesoConst = 68;
+var cantidadProductos = 150;
+let precioUnitario = 9.99;
+const descuento = 0.15;
 
 // Variables de cadena (string)
 var cadenaVar = "Hola, mundo!";
 let cadenaLet = 'JavaScript';
 const cadenaConst = `Variable constante`;
+var saludoVar = "Hola, buen día!";
+let despedidaLet = 'Hasta luego';
+const mensajeConst = `Esta es una constante`;
+var nombreProducto = "Zapatos deportivos";
+let descripcion = 'Modelo 2024';
+const fabricante = `Ejemplo Shoes`;
 
 // Variables booleanas
 var booleanoVar = true;
 let booleanoLet = false;
 const booleanoConst = true;
+var esDiaVar = true;
+let llueveLet = false;
+const soleadoConst = true;
+var disponible = true;
+let enStock = false;
+const promocionActiva = true;
+
 
 // Variables de tipo undefined
 var indefinidoVar;
 let indefinidoLet;
 const indefinidoConst = undefined;
+var carroModelo;
+let noDefinidoLet;
+const sinDefinirConst = undefined;
+var datoIndefinido;
+let valorSinDefinir;
+const configuracionNoDefinida = undefined;
+
+
 
 
 // Declarar variables numéricas
 var numero1 = 10;
 var numero2 = 5;
+
 
 // Realizar operaciones aritméticas básicas
 var suma = numero1 + numero2;
